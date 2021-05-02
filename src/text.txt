@@ -1,0 +1,16 @@
+The 9 Best Programming Languages to Learn in 2021
+1. JavaScript
+2. Swift
+3. Scala
+4. Go
+5. Python
+6. Elm
+7. Ruby
+8. C#
+9. Rust
+Front-end web development: JavaScript
+Back-end web development: JavaScript, Java, Python, PHP, Ruby
+Mobile development: Swift, Java, C#
+Game development: C++, C#
+Desktop applications: Java, C++, Python
+Systems programming: C, Rust
